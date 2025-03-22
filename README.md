@@ -1,33 +1,8 @@
-🍕 Pizza Sales Analysis and Prediction System
+**🍕 Pizza Sales Analysis and Prediction System**
 This Python-based project analyzes pizza sales data, provides statistical insights, and builds machine learning models to predict outcomes. It features a user-friendly GUI for administrators and analysts, enabling seamless data access, interaction, and visualization.
 
 **📁 Project Structure**
-Edit
-├── App.py                         # Main entry point of the application
-├── LICENSE                        # Project license
-├── README.md                      # Project documentation
-│
-├── Connectors/                   # Modules for database connection
-│   ├── AdminConnector.py
-│   ├── Connector.py
-│
-├── Data/                         # Data files used in the project
-│   ├── Pizza_Cleaned.csv
-│   ├── Raw_Data.csv
-│   ├── pizza_data.sql
-│
-├── Models/                       # Model-related logic (prediction/statistics/admin)
-│   ├── Admin.py
-│   ├── PredictionModel.py
-│   ├── Statistic.py
-│
-├── UI/                           # GUI (PyQt6) components and design
-│   ├── FINAL_LOGIN.py/.ui
-│   ├── FINAL_MAINWINDOW.py/.ui
-│   ├── MainLoginWindow.py
-│   ├── MainProgramWindowExt.py
-│
-├── Images/                       # Folder for storing app images and icons
+
 
 **🛠 Features**
 Login UI: Secure login interface for administrators.
