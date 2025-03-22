@@ -1,9 +1,6 @@
 **🍕 Pizza Sales Analysis and Prediction System**
 This Python-based project analyzes pizza sales data, provides statistical insights, and builds machine learning models to predict outcomes. It features a user-friendly GUI for administrators and analysts, enabling seamless data access, interaction, and visualization.
 
-**📁 Project Structure**
-
-
 **🛠 Features**
 Login UI: Secure login interface for administrators.
 
@@ -34,6 +31,7 @@ SQLite/MySQL (via connectors) for database support
 Clone the repository:
 
 git clone https://github.com/yourusername/pizza-sales-analyzer.git
+
 cd pizza-sales-analyzer
 Install dependencies:
 
